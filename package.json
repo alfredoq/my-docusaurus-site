@@ -11,7 +11,7 @@
     "@docusaurus/core": "^2.4.1",
     "@docusaurus/preset-classic": "^2.4.1"
   },
-  // "devDependencies": {
-  //   "docusaurus": "^2.4.1"
-  // }
+  "devDependencies": {
+    "docusaurus": "^2.4.1"
+  }
 }
