@@ -8,10 +8,10 @@
     "deploy": "docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0",
-    "@docusaurus/preset-classic": "^2.0.0"
+    "@docusaurus/core": "^2.4.1",
+    "@docusaurus/preset-classic": "^2.4.1"
   },
   "devDependencies": {
-    "docusaurus": "^2.0.0"
+    //"docusaurus": "^2.4.1"
   }
 }
