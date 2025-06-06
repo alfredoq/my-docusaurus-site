@@ -6,9 +6,5 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "deploy": "docusaurus deploy"
-  },
-  "dependencies": {
-    "@docusaurus/core": "^2.4.1",
-    "@docusaurus/preset-classic": "^2.4.1"
-  },
+  }
 }
